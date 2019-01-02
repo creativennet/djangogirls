@@ -23,8 +23,8 @@ This that they will teach you:
 
 I would like to thank you the people at Django Girls for making a very fun tutorial that is very easy to understand and to use.
 
-- Thank you to Ricardo Amaro for making me change my mind from Ruby and rails, to python and django
-- Daniel Farinha for all the in house, friend and colleague encyclopedia
+- Thank you to Ricardo Amaro ([@ramaro](https://github.com/ramaro)) for making me change my mind from Ruby and rails, to python and django
+- Filipe Farinha ([@ktorn](https://github.com/ktorn)) for all the in house, friend and colleague encyclopedia
 
 ### Todos
 
