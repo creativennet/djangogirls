@@ -24,7 +24,7 @@ This that they will teach you:
 
 ### Thanks
 
-I would like to thank you the people at Django Girls for making a very fun tutorial that is very easy to understand and to use.
+I would like to thank you the people at Django Girls([@djangogirls](https://github.com/djangogirls)) for making a very fun tutorial that is very easy to understand and to use.
 
 - Thank you to Ricardo Amaro ([@ramaro](https://github.com/ramaro)) for making me change my mind from Ruby and rails, to python and django
 - Filipe Farinha ([@ktorn](https://github.com/ktorn)) for all the in house, friend and colleague encyclopedia
