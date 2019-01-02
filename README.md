@@ -25,7 +25,6 @@ I would like to thank you the people at Django Girls for making a very fun tutor
 
 - Thank you to Ricardo Amaro for making me change my mind from Ruby (and rails, to python and django)
 - Daniel Farinha for all the in house, friend and colleague encyclopedia
-ann/dillinger/blob/master/KUBERNETES.md)
 
 ### Todos
 
