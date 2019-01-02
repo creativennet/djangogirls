@@ -24,14 +24,15 @@ This that they will teach you:
 
 ### Thanks
 
-I would like to thank you the people at Django Girls for making a very fun tutorial that is very easy to understand and to use.
+I would like to thank you the people at Django Girls ([@djangogirls](https://github.com/djangogirls)) for making a very fun tutorial that is very easy to understand and to use.
 
 - Thank you to Ricardo Amaro ([@ramaro](https://github.com/ramaro)) for making me change my mind from Ruby and rails, to python and django
 - Filipe Farinha ([@ktorn](https://github.com/ktorn)) for all the in house, friend and colleague encyclopedia
 
 ### Todos
 
- - Check the end extend post_detail issue that i am having in 3.7.1
+ - Check the end extend post_detail issue that i am having in 3.7.1 (fixed, helped by Filipe, 2 people review better than one)
+ - Follow up on the extended tutorials (1 out 3) done
  
 ### Greetings
 Creativen and Friends
