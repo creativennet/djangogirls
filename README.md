@@ -31,7 +31,8 @@ I would like to thank you the people at Django Girls ([@djangogirls](https://git
 
 ### Todos
 
- - Check the end extend post_detail issue that i am having in 3.7.1
+ - Check the end extend post_detail issue that i am having in 3.7.1 (fixed, helped by Filipe, 2 people review better than one)
+ - Follow up on the extended tutorials (1 out 3) done
  
 ### Greetings
 Creativen and Friends
