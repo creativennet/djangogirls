@@ -50,3 +50,7 @@ body {
 .post h2 a, .post h2 a:visited {
     color: #000000;
 }
+
+.comment {
+    margin: 20px 0px 20px 20px;
+}
