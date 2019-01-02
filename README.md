@@ -2,6 +2,9 @@
 
 Is a tutorial for new comers to Django, I am Creativen and i am doing this tutorial online and updating this as i go.
 
+- Update 2019.01.02: Completed the Tutorial Extensions as well.
+- Uploaded to Github
+
 # New Features!
 The tutorial can be found here:
 https://tutorial.djangogirls.org/en/
