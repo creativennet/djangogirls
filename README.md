@@ -23,7 +23,7 @@ This that they will teach you:
 
 I would like to thank you the people at Django Girls for making a very fun tutorial that is very easy to understand and to use.
 
-- Thank you to Ricardo Amaro for making me change my mind from Ruby (and rails, to python and django)
+- Thank you to Ricardo Amaro for making me change my mind from Ruby and rails, to python and django
 - Daniel Farinha for all the in house, friend and colleague encyclopedia
 
 ### Todos
