@@ -11,8 +11,9 @@ I have added the sqlite3 database in gitignore, please remember to do the migrat
 
 
 # New Features!
-The tutorial can be found here:
+The tutorials can be found here:
 https://tutorial.djangogirls.org/en/
+https://tutorial-extensions.djangogirls.org/en/
 
 This that they will teach you:
   - Installation of Django
