@@ -12,7 +12,7 @@ I have added the sqlite3 database in gitignore, please remember to do the migrat
 
 # New Features!
 The tutorials can be found here:
-https://tutorial.djangogirls.org/en/
+https://tutorial.djangogirls.org/en/ and 
 https://tutorial-extensions.djangogirls.org/en/
 
 This that they will teach you:
